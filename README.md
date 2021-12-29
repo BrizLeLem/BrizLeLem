@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour 👋, I'm Briz</h1>
 <h3 align="center">New in Full-Stack development and already passionate</h3>
 
-- 🔭 I’m currently working on [my own portfolio](www.brizlelem.com)
+- 🔭 I’m currently working on [my own portfolio](https://www.brizlelem.com)
 
 - 🌱 I’m currently learning **Ruby, JavaScript and REACT**
 
-- 👨‍💻 All of my projects will be available at [www.brizlelem.com](www.brizlelem.com)
+- 👨‍💻 All of my projects will be available at [www.brizlelem.com](https://www.brizlelem.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/brizlelem/](https://www.linkedin.com/in/brizlelem/)
 
